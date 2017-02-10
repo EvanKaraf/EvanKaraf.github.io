@@ -1,5 +1,4 @@
 .listMult{
-	
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
 	-moz-column-count: 3; /* Firefox */
 	column-count: 3;
@@ -24,4 +23,10 @@ li{
 #category{
 	padding-top: 60px;
 	padding-bottom: 0px;
+}
+
+
+.navbar{
+	margin-bottom: 0;
+	border-radius: 0;
 }
