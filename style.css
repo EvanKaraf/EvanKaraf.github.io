@@ -13,14 +13,14 @@ li{
 	margin: 0px;
 }
 
-#content{
+.content{
+	padding-left: 60px;
 	margin: auto;
-	width: 840px;
 	font-family: "Droid Sans", Helvetica, Verdana, sans-serif;
 
 }
 
-#category{
+.category{
 	padding-top: 60px;
 	padding-bottom: 0px;
 }
