@@ -14,8 +14,7 @@ li{
 }
 
 .content{
-	padding-left: 60px;
-	margin: auto;
+	max-width: 1000px;
 	font-family: "Droid Sans", Helvetica, Verdana, sans-serif;
 
 }
